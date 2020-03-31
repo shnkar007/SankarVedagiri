@@ -13,13 +13,16 @@ I will be posting technical blogs and code examples on
   Java  
   Spring   
   RxJava  
-  Kotlin  
+  Reactor  
+  ReactivStreams  
+  Kotlin
   DevOps  
   Docker  
   Ansible  
   Kubernetes  
   Jenkins  
   Linux  
+  Python
   
   In addition to this I'll be creating tutorial videos on the topics mentioned above. I represent Altius Digital(formerly known as Altius Inc) where we offer corporate training and consulting services. I am open for training and consulting opportunities in these areas.
   
