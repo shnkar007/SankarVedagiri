@@ -13,7 +13,7 @@ I will be posting technical blogs and code examples on
   RxJava  
   Reactor  
   ReactivStreams  
-  Kotlin
+  Kotlin  
   DevOps  
   Docker  
   Ansible  
