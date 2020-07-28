@@ -8,7 +8,7 @@ About Sankar Vedagiri:
   
 I will be posting technical blogs and code examples on
 
-  Java  
+  Java.md
   Spring   
   RxJava  
   Reactor  
