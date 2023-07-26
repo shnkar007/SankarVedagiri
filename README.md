@@ -18,7 +18,7 @@ I will be posting technical blogs and code examples on
   Docker  
   Ansible  
   Kubernetes  
-  [Jenkins](./jenkins.docx)  
+  [Jenkins](./Jenkins.docx)  
   Linux  
   Python
   
