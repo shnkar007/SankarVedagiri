@@ -8,7 +8,8 @@ Jenkins is the most adopted CI/CD(Continuous Integration/Continuous Deployment) 
 
                                                  
    Jenkins is built on Java based technologies like JSP and servlets. and deployed on tomcat server.
-   Installation
+   **Installation**
+      Jenkins can be installed on any OS like Windows, Linux flavors, MacOS. Apart from that , it can be installed on docker and kubernetes. 
      
    
 
